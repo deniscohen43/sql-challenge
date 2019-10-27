@@ -1,0 +1,1 @@
+The code, queries and results are located in the EmployeeSQL folder
